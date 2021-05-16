@@ -1,6 +1,6 @@
-const getAll = async () => {
-  // TODO: mock implementation. should be replaced during task development
-  return [];
+export const userDBActions = {
+  userDBActions: async () => 
+    // TODO: mock implementation. should be replaced during task development
+     []
+  
 };
-
-module.exports = { getAll };
